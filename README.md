@@ -28,3 +28,6 @@ Run 'node export.js'
 
 ##RESULT
 A file named 'ShopifyOrders.csv' will be generated.  Open this file in Excel, select the data, and create a pivot table.
+
+##WHO:
+This code is maintained by [ekeepo LLC](http://ekeepo.com).  [View the related blog post.](http://www.ekeepo.com/blog/understanding-your-customers-on-shopify-through-exporting-orders-to-csv)
